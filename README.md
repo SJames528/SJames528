@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @SJames528
-- 👀 After studying Maths at undergraduate level, I now have Master's degrees in both Mathematics of Cybersecurity and Data-Intensive Astrophysics. I'm eager to expand my knowledge and practical skils in the field of data science and machine learning, and hopefully go on to earn a doctorate in this field.
-- 🌱 I’m interested in examining the mathematical frameworks of AI, and applying this theory chiefly to analyse and simulate astrophysical phenomena. My particular research interests are gas/dust behaviour in galaxies, cosmological models, and gravitational wave analysis.
-- 📫 You can reach me via email: hardingsamuel97@gmail.com
+- 👀 After studying for a BSc in Mathematics and an MSc in Data-Intensive Astrophysics, I'm now undertaking a PhD in Astrophysical Data Science. I'm eager to expand my knowledge and practical skils in the field of machine learning, with my research interests being gas/dust behaviour in galaxies (particularly at high-redshifts), galaxy evolution, and cosmological models.
+- 📫 You can reach me via email: HardingSJ@cardiff.ac.uk
