@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SJames528
-- 👀 After studying for a BSc in Mathematics and an MSc in Data-Intensive Astrophysics, I'm now undertaking a PhD in Astrophysical Data Science at Cardiff University.
+- 👀 After studying for a BSc in Mathematics and an MSc in Data-Intensive Astrophysics, I'm now undertaking a PhD in galaxy chemical evolution models at Cardiff University.
 - 🪐 I'm eager to expand my knowledge and practical skils in the field of machine learning, with my research interests being galactic gas/dust evolution (particularly at high-redshifts), and cosmological models.
 - 📫 You can reach me via email: HardingSJ@cardiff.ac.uk
